@@ -4,7 +4,7 @@
 
 {I created this simple game to help me to understand the basics of Unreal Engine and how to create functional games with it.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gGZH4v4Z1Sg)
 
 # Development Environment
 
